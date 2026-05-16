@@ -1,0 +1,3 @@
+Create a cloud storage bucket using terraform; following the file structure defined in the folder terraform 'terraform-with-gemini-code-assist' folder. Use best practices. Make the bucket private and multi-region (across the US).
+Separate the various terraform configuration components into their respective files such as ```main.tf```, ```provider.tf```, ```output.tf```, ```variables.tf``` (define variables here). 
+Give a step-by-step guide on how to build the infrastructure (terraform commands), in a file called ```create-infra.md``` in the same folder. Add a Terraform formatting step.

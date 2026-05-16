@@ -1,0 +1,1 @@
+Create a cloud storage bucket using terraform; following the file structure defined in the folder terraform 'terraform-with-gemini-code-assist' folder. Use best practices. Make the bucket private and multi-region (across the US).
