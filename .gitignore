@@ -10,3 +10,12 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 .terraform.tfstate.lock.info
+
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl.backup
+crash.log
+crash.*.log
+.terraform.tfstate.lock.info
